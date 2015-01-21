@@ -9,7 +9,7 @@ twitter_username: ""
 github_username:  karfield
 
 # Build settings
-markdown: redcarpet2
+markdown: kramdown
 highlighter: pygments
 excerpt_separator: "\n\n"
 lsi:         false
