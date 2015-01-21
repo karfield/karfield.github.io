@@ -6,14 +6,16 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 pygments: true
 
 markdown: kramdown
-hightlighter: coderay
+highlighter: coderay
+lsi:         false
+excerpt_separator: "\n\n"
 
 kramdown:
   auto_ids: true,
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6 
-  use_coderay: false
+  use_coderay: true
 
 coderay:
   coderay_wrap: div
