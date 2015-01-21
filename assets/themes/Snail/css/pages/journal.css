@@ -54,7 +54,7 @@
 	font-family:'Open Sans',arial,sans-serif;
 }
 #journal-articles-block h1 {
-	font-size:32px;
+	font-size:24px;
 	margin: 0;
 	display:inline-block;
 	color:#333;
@@ -100,7 +100,7 @@
 	color:#FFF;
 }
 #journal-articles-block .journal-article .journal-body span.teaser,#journal-articles-block .journal-article .journal-body span.the-article {
-	padding: 5px 0;
+	padding: 34px 0;
 	line-height:19px;
 	color:#333;
 	font-size:14px;
@@ -169,7 +169,7 @@
 }
 #journal-articles-block p {
 	line-height: 1.8em;
-	padding:30px 0;
+	padding:5px 0;
 }
 #journal-articles-block .the-article h2,#journal-articles-block .the-article h2 a {
 	font-size: 25px;
