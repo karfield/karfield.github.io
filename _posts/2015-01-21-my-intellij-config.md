@@ -38,7 +38,7 @@ IntelliJ Community Edition 14所在的快捷键配置文件路径:
 以下表格是我统计的Jetbrains的各产品名称和路径缩写的映射关系:
 
 | 产品 | 适用的版本 | 路径名前缀 |
-| :--- | :--- |
+| :--- | :--- | :--- |
 | IntelliJ | 13, 14 | IntelliJIdea |
 | IntelliJ Community Edition | 13, 14 | IdeaIC |
 | PyCharm | 4 | PyCharm |
