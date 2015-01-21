@@ -10,5 +10,8 @@ github_username:  karfield
 
 # Build settings
 markdown: redcarpet2
+highlighter: pygments
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables",     "with_toc_data"]
+excerpt_separator: "\n\n"
+lsi:         false
