@@ -11,7 +11,7 @@ categories: usenotes
 Mac使用ShadowSocks(以下简称SS)代理来上网极为简单, 分两步:
 
 1. 下载 [ShadowsocksX客户端](https://sourceforge.net/projects/shadowsocksgui/)
-2. 安装启动之后配置SS服务器的账号密码, 登入之后即可~~科学上网~~
+2. 安装启动之后配置SS服务器的账号密码, 登入之后即可科学上网
 
 **SS客户端配置**
 
@@ -24,7 +24,7 @@ Mac使用ShadowSocks(以下简称SS)代理来上网极为简单, 分两步:
 ```javascript
 var domains= {
   "<domain-you-want-to-be-proxied>.com": 1,
-  ...
+  //...
 }
 ```
 
@@ -63,8 +63,10 @@ socks5  127.0.0.1 1080
 proxychains-ng安装之后,对应的具体命令是**proxychains4**. 对于该命令的使用方式:
 
 ```
-$ proxychains4 -q your-command and-its-options
+$ proxychains4 -q program_name [arguments]
 ```
+
+`-q`参数是quiet的意思, 加了就不会有Proxychains的打印; 还可用过-f <config_file_path>来使用指定的配置文件进行代理.
 
 比如使用代理用wget下东西,可以这样:
 
