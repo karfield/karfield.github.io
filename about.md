@@ -1,7 +1,8 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: about
+title: About Me
+header: About Me
+group: navigation
 ---
-
-I'm a programmer. This site contains my collecting and writings about coding.
+ * **Name:** Karfield Chen
+ * **Github:** [karfield](https://github.com/karfield)
