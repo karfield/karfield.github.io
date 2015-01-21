@@ -8,10 +8,12 @@ pygments: true
 markdown: kramdown
 hightlighter: pygments
 
+paginate: 15
+
 # The title and tagline is showed on homepage
 #
 title :  Coding Tips 
-tagline: from K.C
+tagline: by K.C.
 
 # Information about author
 #
