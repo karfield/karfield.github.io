@@ -9,5 +9,5 @@ twitter_username: ""
 github_username:  karfield
 
 # Build settings
-markdown: kramdown
-
+#markdown: kramdown
+markdown: redcarpet
