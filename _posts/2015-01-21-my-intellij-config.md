@@ -2,14 +2,18 @@
 layout: post
 title:  "我的IntelliJ配置"
 date:   2015-01-21 09:24:00
-categories: config
+categories: usenotes
 ---
 
 This Tip has been tested on **IntelliJ CE 14**, **PyCharm 4** under  _Mac OS X 10.10_.
 
+---
+
 # 修改IntelliJ同步代理设置
 
 FIXME...
+
+---
 
 # 修改IntelliJ的快捷键/Change Keymaps in Preferences of IntelliJ
 
@@ -23,7 +27,7 @@ Refactor: Rename | 重命名类/文件等 | RenameElement | `⌘R`
 Find Usages | 查找被引用的地方 | FindUsages | `⌘U`
 Jump to Source | 跳转到定义处 | EditSource | `⌘`+单击 或者 `⌘I`
 
-## 拷贝快捷键配置文件到其他Jetbrains产品
+### 拷贝快捷键配置文件到其他Jetbrains产品
 
 IntelliJ Community Edition 14所在的快捷键配置文件路径:
 
