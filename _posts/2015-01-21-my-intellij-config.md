@@ -7,15 +7,13 @@ categories: usenotes
 
 This Tip has been tested on **IntelliJ CE 14**, **PyCharm 4** under  _Mac OS X 10.10_.
 
----
-
 # 修改IntelliJ同步代理设置
+---
 
 FIXME...
 
----
-
 # 修改IntelliJ的快捷键
+---
 
 打开IntelliJ -> Preferences对话框(或直接敲 `⌘,`), 直接搜索keymap或者选择以下路径: **Apprearance & Behavior** -> **Keymap**, 选择一个内置配置, 比如Eclipse (Max OS X). 搜索和修改以下映射值:
 
