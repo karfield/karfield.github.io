@@ -362,7 +362,7 @@ nav #nav-c ul#nav-list li#home a {
 	/* box-shadow: 0 0 0px 1px black, 0 0 4px 4px #5C5C5C; */
 	border-style: solid;
 	border-color: rgb(0, 0, 0);
-	border-width: 1px;
+	/* border-width: 1px; */
 }
 
 nav #nav-c form#nav-search {
