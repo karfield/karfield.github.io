@@ -1,8 +1,8 @@
 # Site settings
-title: "Karfield's Shares on Coding"
+title: "Karfield's Coding Tips"
 email: ""
 description: > # this means to ignore newlines until "baseurl:"
-    This is my shares of tips and opinions on coding stuff, Thx your visiting!
+    This is my shares of coding stuff, Thanks for your visiting!
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://open.karfield.com" # the base hostname & protocol for your site
 twitter_username: ""
