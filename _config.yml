@@ -6,7 +6,7 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 pygments: true
 
 markdown: kramdown
-hightlighter: pygments
+hightlighter: coderay
 
 # The title and tagline is showed on homepage
 #
