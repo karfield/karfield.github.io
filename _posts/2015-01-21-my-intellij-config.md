@@ -15,7 +15,7 @@ FIXME...
 
 ---
 
-# 修改IntelliJ的快捷键/Change Keymaps in Preferences of IntelliJ
+# 修改IntelliJ的快捷键
 
 打开IntelliJ -> Preferences对话框(或直接敲 `⌘,`), 直接搜索keymap或者选择以下路径: **Apprearance & Behavior** -> **Keymap**, 选择一个内置配置, 比如Eclipse (Max OS X). 搜索和修改以下映射值:
 
@@ -27,7 +27,7 @@ FIXME...
 | Find Usages | 查找被引用的地方 | FindUsages | `⌘U` |
 | Jump to Source | 跳转到定义处 | EditSource | `⌘+单击` 或者 `⌘I` |
 
-### 拷贝快捷键配置文件到其他Jetbrains产品
+* 拷贝快捷键配置文件到其他Jetbrains产品
 
 IntelliJ Community Edition 14所在的快捷键配置文件路径:
 
