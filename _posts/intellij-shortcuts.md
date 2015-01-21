@@ -2,9 +2,7 @@
 layout: post
 title:  "我的IntelliJ配置"
 date:   2015-01-21 09:24:00
-categories: uses
-language: zh_CN
-
+categories: config
 ---
 
 This Tip has been tested on **IntelliJ CE 14**, **PyCharm 4** under  _Mac OS X 10.10_.
