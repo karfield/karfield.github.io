@@ -29,7 +29,8 @@ FIXME...
 | Find Usages | 查找被引用的地方 | FindUsages | `⌘U` |
 | Jump to Source | 跳转到定义处 | EditSource | `⌘+单击` 或者 `⌘I` |
 
-### 拷贝快捷键配置文件到其他Jetbrains产品
+
+## 拷贝快捷键配置文件到其他Jetbrains产品
 
 IntelliJ Community Edition 14所在的快捷键配置文件路径:
 
