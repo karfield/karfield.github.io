@@ -28,9 +28,9 @@ Mac使用ShadowSocks(以下简称SS)代理来上网极为简单, 分两步:
 这个是PAC配置文件,里面包含了需要自动代理的域名, 在domains中添加你想要的翻的域名或者子域名即可:
 
 ```
-var domains= {</br>
-  "<domain-you-want-to-be-proxied>.com": 1,</br>
-  //...</br>
+var domains= {
+  "<domain-you-want-to-be-proxied>.com": 1,
+  //...
 }
 ```
 
