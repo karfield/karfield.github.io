@@ -14,6 +14,8 @@ categories: usenotes
 
 ![tested](https://img.shields.io/badge/推荐的ShadowSocksX版本:-2.6.2-0088ff.svg)
 
+ShadowSocks貌似是目前最流行的加密代理，不同于VPN、OpenVPN等等，它配置简单轻量，在Mac下基本上不需要多少配置就可轻松科学上网。有了它，足以应付多数番茄需求了。
+
 Mac使用ShadowSocks(以下简称SS)代理来上网极为简单, 分两步:
 
 1. 下载 [ShadowsocksX客户端](https://sourceforge.net/projects/shadowsocksgui/)
@@ -21,7 +23,7 @@ Mac使用ShadowSocks(以下简称SS)代理来上网极为简单, 分两步:
 
 **SS客户端配置**
 
-官方默认配了Public Server, 但免费的总是堵的. 如果你要设置自己的SS服务器, 可以参考 [配置SS服务器]().
+官方默认配了Public Server, 但免费的总是堵的. 如果你要搭建自己的SS服务器, 可以参考 [搭建SS服务器]().
 
  **~/.ShadowsocksX/gfwlist.js**
 
