@@ -29,6 +29,7 @@ FIXME...
 | Find Usages | 查找被引用的地方 | FindUsages | `⌘U` |
 | Jump to Source | 跳转到定义处 | EditSource | `⌘+单击` 或者 `⌘I` |
 
+<br>
 
 ## 拷贝快捷键配置文件到其他Jetbrains产品
 
