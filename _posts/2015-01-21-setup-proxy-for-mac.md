@@ -7,7 +7,7 @@ categories: usenotes
 
 在国内开写代码，必须得翻山越岭才能取到真经，所以本文就教你怎样配置环境使得自己的开发变得高效。
 
-![tested](https://img.shields.io/badge/本文所述方法在Mac_OS_X_10.10-通过了验证-0088ff.svg)
+![tested](https://img.shields.io/badge/本文所述方法在Mac_OS_X_10.10-通过了验证-brightgreen.svg)
 
 # 使用ShadowSocks
 ---
@@ -28,9 +28,9 @@ Mac使用ShadowSocks(以下简称SS)代理来上网极为简单, 分两步:
 这个是PAC配置文件,里面包含了需要自动代理的域名, 在domains中添加你想要的翻的域名或者子域名即可:
 
 ```
-var domains= {
-  "<domain-you-want-to-be-proxied>.com": 1,
-  //...
+var domains= {</br>
+  "<domain-you-want-to-be-proxied>.com": 1,</br>
+  //...</br>
 }
 ```
 
