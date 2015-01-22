@@ -5,11 +5,10 @@ date:   2015-01-21 09:24:00
 categories: usenotes
 ---
 
-本文在
-![tested](https://img.shields.io/badge/IntelliJ-Communitiy_Edition_14-brightgreen.svg),
-![tested](https://img.shields.io/badge/PyCharm-Communitiy_Edition_4-brightgreen.svg)
-上通过了验证
+本文所述方法在以下版本和平台上通过了验证:
 
+![tested](https://img.shields.io/badge/IntelliJ-Communitiy_Edition_14-brightgreen.svg)
+![tested](https://img.shields.io/badge/PyCharm-Communitiy_Edition_4-brightgreen.svg)
 ![tested](https://img.shields.io/badge/Tested_on-Mac_OS_X_10.10-green.svg)
 
 # 修改IntelliJ同步代理设置
