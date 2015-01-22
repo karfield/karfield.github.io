@@ -3,18 +3,18 @@
 permalink: /:categories/:year/:month/:day/:title 
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-pygments: true
+#pygments: true
 
 markdown: kramdown
-highlighter: pygments
+#highlighter: pygments
 lsi:         false
 excerpt_separator: "\n\n"
 
-#kramdown:
-#  auto_ids: true,
-#  footnote_nr: 1
-#  entity_output: as_char
-#  toc_levels: 1..6 
+kramdown:
+  auto_ids: true,
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6 
 
 
 
